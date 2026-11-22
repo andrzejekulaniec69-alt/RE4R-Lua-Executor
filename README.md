@@ -34,6 +34,9 @@ Designed to work with all REFramework versions.
 
 ## How to use
 
+Paste the entire script—you can even use Notepad—and save it with the filename `re_executor.lua` 
+into the reframework/autorun path within the game's local files.
+
 ### Lua Executor
 
 1. Open the RE Lua Executor window.
